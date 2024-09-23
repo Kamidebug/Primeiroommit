@@ -1,0 +1,21 @@
+Em uma serie recente assistir uma situação parecida para obter o resultado, utilizava a questao de temperatura
+Ligue o primeiro interruptor e deixe-o ligado por 10 minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá até as salas das lâmpadas.
+A lâmpada que está acesa é do segundo interruptor.
+A lâmpada que está apagada e ainda quente é do primeiro interruptor.
+A lâmpada que está apagada e fria é do terceiro interruptor, Mas o modo que eu pensei foi Aqui temos uma alternativa que não requer a utilização de temperatura ou passos numerados:
+Acione o botão 1 durante 60 segundos, desative-o e ative o botão 2. Logo após, dirija-se até a sala onde estão as lâmpadas.
+Observe as luminárias. Você notará uma das seguintes circunstâncias:
+Uma luz está iluminando enquanto outras duas permanecem apagadas.
+Duas luzes estão ligadas e uma está apagada.
+Retorne à sala dos interruptores e desative o interruptor número 2. Ative o interruptor número 3 e retorne mais uma vez à sala onde estão as lâmpadas.
+Analise as lâmpadas mais uma vez. Você notará uma das seguintes circunstâncias:
+Caso tenha presenciado uma lâmpada acesa em algum momento, agora presenciará novamente:
+A luz continua ligada no mesmo local, sendo controlada pelo interruptor número 2.
+Uma luz única está brilhando (o terceiro interruptor é responsável por acendê-la).
+Caso tenha presenciado o brilho de duas lâmpadas acesas no passado, agora presenciará:
+Uma das luzes que estava ligada agora está apagada (o interruptor 2 acionava uma das luzes que estavam acessas anteriormente).
+A luz que antes estava apagada agora se encontra acesa, sendo o terceiro interruptor responsável por acendê-la.
+
+
