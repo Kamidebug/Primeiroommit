@@ -1,0 +1,11 @@
+a) É fácil! A sequência é só de números ímpares consecutivos. Começamos com 1, então vem 3, 5, 7 e assim por diante. Então, o próximo número é 9.
+
+b) É uma sequência de potências de 2. Começamos com 2, então vem 4, 8, 16, 32, 64 e assim por diante. Então, o próximo número é 128.
+
+c) É uma sequência de quadrados perfeitos. Começamos com 0² = 0, então vem 1² = 1, 2² = 4, 3² = 9, 4² = 16, 5² = 25, 6² = 36 e assim por diante. Então, o próximo número é 49.
+
+d) É uma sequência de quadrados perfeitos de números pares. Começamos com 2² = 4, então vem 4² = 16, 6² = 36, 8² = 64 e assim por diante. Então, o próximo número é 100.
+
+e) É a famosa sequência de Fibonacci! Começamos com 1 e 1, então somamos os dois números anteriores para obter o próximo. Então, vem 2, 3, 5, 8 e assim por diante. Então, o próximo número é 13.
+
+f) Essa sequência é um pouco mais estranha. Parece que os números vêm consecutivos, mas com um incremento irregular. Começamos com 2, então vem 10, 12, 16, 17, 18, 19 e assim por diante. Então, o próximo número é 20.
